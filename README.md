@@ -1,0 +1,3 @@
+- Data was scraped from GitHub API to analyze Basel-based users.
+- Found interesting trends in repository languages and follower counts.
+- Recommendation: Basel developers can improve visibility by using popular languages and increasing activity.
